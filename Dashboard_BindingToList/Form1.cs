@@ -29,7 +29,7 @@ namespace Dashboard_BindingToList {
 
             dashboard.Items.AddRange(pies, grid);
             dashboardViewer1.Dashboard = dashboard;
-        }
+        } 
 
         // Handles the DashboardViewer.DataLoading event to provide the dashboard with new data.
         private void dashboardViewer1_DataLoading(object sender,
