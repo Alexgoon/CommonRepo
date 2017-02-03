@@ -4,7 +4,7 @@ using DevExpress.XtraEditors;
 namespace Dashboard_BindingToList {
     public partial class Form1 : XtraForm {
         public Form1() {
-            InitializeComponent();          f        
+            InitializeComponent();                
         }
 
         private void Form1_Load(object sender, System.EventArgs e) {
